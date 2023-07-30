@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/hwajin-full/static/css/main.dc5d5d78.css",
-    "main.js": "/hwajin-full/static/js/main.885399bc.js",
+    "main.css": "/hwajin-full/static/css/main.d6afb29b.css",
+    "main.js": "/hwajin-full/static/js/main.70fbf0f5.js",
     "static/js/787.159ee66e.chunk.js": "/hwajin-full/static/js/787.159ee66e.chunk.js",
-    "static/media/service-top.png": "/hwajin-full/static/media/service-top.2c0c6d8d89536b684975.png",
-    "static/media/service-bottom.png": "/hwajin-full/static/media/service-bottom.258be85f29dfd3cefa72.png",
+    "static/media/service-top-img.png": "/hwajin-full/static/media/service-top-img.b867db7f2160d2d54348.png",
+    "static/media/service-bottom-img.png": "/hwajin-full/static/media/service-bottom-img.afa1c205180e77306822.png",
     "static/media/home-img.png": "/hwajin-full/static/media/home-img.9067f00dd34eee713103.png",
-    "static/media/service-os.png": "/hwajin-full/static/media/service-os.17d64b0fbb2bab1767bb.png",
-    "static/media/service-robot.png": "/hwajin-full/static/media/service-robot.a05933424207cba5deea.png",
     "static/media/etc-img.png": "/hwajin-full/static/media/etc-img.4448a3e1bd9d5b452532.png",
     "static/media/robot-img.png": "/hwajin-full/static/media/robot-img.f4f53008478840116546.png",
     "static/media/building.png": "/hwajin-full/static/media/building.2b0e31ec63405489458f.png",
+    "static/media/pay-img.png": "/hwajin-full/static/media/pay-img.1677298719cc421ad326.png",
     "static/media/hr-img.png": "/hwajin-full/static/media/hr-img.5170dde740d76fc621af.png",
-    "static/media/service-bike.png": "/hwajin-full/static/media/service-bike.566b6836ba2435c6f0f7.png",
     "static/media/bike-img.png": "/hwajin-full/static/media/bike-img.87e1563cc7f0bb626298.png",
+    "static/media/icon-01.png": "/hwajin-full/static/media/icon-01.214ff402f65651b82d85.png",
+    "static/media/icon-02.png": "/hwajin-full/static/media/icon-02.07138071491735c71d4a.png",
     "static/media/h_logo.png": "/hwajin-full/static/media/h_logo.9635f029a026abeb1475.png",
+    "static/media/icon-03.png": "/hwajin-full/static/media/icon-03.c08de86f8aefd33cc261.png",
     "static/media/footer-logo.png": "/hwajin-full/static/media/footer-logo.b23622197073defba3d4.png",
     "index.html": "/hwajin-full/index.html",
-    "main.dc5d5d78.css.map": "/hwajin-full/static/css/main.dc5d5d78.css.map",
-    "main.885399bc.js.map": "/hwajin-full/static/js/main.885399bc.js.map",
+    "main.d6afb29b.css.map": "/hwajin-full/static/css/main.d6afb29b.css.map",
+    "main.70fbf0f5.js.map": "/hwajin-full/static/js/main.70fbf0f5.js.map",
     "787.159ee66e.chunk.js.map": "/hwajin-full/static/js/787.159ee66e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc5d5d78.css",
-    "static/js/main.885399bc.js"
+    "static/css/main.d6afb29b.css",
+    "static/js/main.70fbf0f5.js"
   ]
 }
