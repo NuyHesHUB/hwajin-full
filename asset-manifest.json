@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hwajin-full/static/css/main.d6afb29b.css",
-    "main.js": "/hwajin-full/static/js/main.70fbf0f5.js",
+    "main.css": "/hwajin-full/static/css/main.e1798189.css",
+    "main.js": "/hwajin-full/static/js/main.e10299ab.js",
     "static/js/787.159ee66e.chunk.js": "/hwajin-full/static/js/787.159ee66e.chunk.js",
     "static/media/service-top-img.png": "/hwajin-full/static/media/service-top-img.b867db7f2160d2d54348.png",
     "static/media/service-bottom-img.png": "/hwajin-full/static/media/service-bottom-img.afa1c205180e77306822.png",
@@ -18,12 +18,12 @@
     "static/media/icon-03.png": "/hwajin-full/static/media/icon-03.c08de86f8aefd33cc261.png",
     "static/media/footer-logo.png": "/hwajin-full/static/media/footer-logo.b23622197073defba3d4.png",
     "index.html": "/hwajin-full/index.html",
-    "main.d6afb29b.css.map": "/hwajin-full/static/css/main.d6afb29b.css.map",
-    "main.70fbf0f5.js.map": "/hwajin-full/static/js/main.70fbf0f5.js.map",
+    "main.e1798189.css.map": "/hwajin-full/static/css/main.e1798189.css.map",
+    "main.e10299ab.js.map": "/hwajin-full/static/js/main.e10299ab.js.map",
     "787.159ee66e.chunk.js.map": "/hwajin-full/static/js/787.159ee66e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6afb29b.css",
-    "static/js/main.70fbf0f5.js"
+    "static/css/main.e1798189.css",
+    "static/js/main.e10299ab.js"
   ]
 }
